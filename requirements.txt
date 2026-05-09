@@ -1,0 +1,23 @@
+# Web Framework & Server
+fastapi
+uvicorn
+fastapi-clerk-auth
+
+# AI & Agents
+openai
+openai-agents  # The core framework for your Sales Manager and Research scripts
+pydantic   # For structured data models in Planner/Writer agents
+
+# User Interface
+gradio     # For the Deep Research web UI
+
+# Utilities & File Processing
+python-dotenv
+requests   # For Pushover notifications and manual API calls
+pypdf      # For reading your LinkedIn/Resume PDFs
+
+# Email
+sendgrid
+
+# Media (Required by the agents framework)
+av
